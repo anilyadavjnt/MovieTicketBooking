@@ -22,3 +22,9 @@ This project helped me strengthen my skills in building a complete movie booking
 Building projects like this continuously helps me improve my iOS development, UI/UX, API integration, and problem-solving skills.
 I’m currently looking for opportunities as an iOS Developer where I can contribute, learn, and grow with a great team. 🚀
 💬 Feedback and suggestions are always welcome!
+
+Anil Yadav ( iOS Developer )
+
+* LinkedIn: www.linkedin.com/in/anilyadavjnt
+* Portfolio: https://portfolio-anilyadavjnt.vercel.app
+* Email: anilyadavjnt@gmail.com
