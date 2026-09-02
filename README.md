@@ -3,6 +3,9 @@
 A modern **Movie Ticket Booking iOS application** built using **Swift and UIKit**.
 This project demonstrates a complete movie booking flow, including movie discovery, show selection, seat selection, and booking/payment UI.
 
+<img width="1179" height="2556" alt="Simulator Screenshot - iPhone 14 Pro - 2026-09-02 at 22 18 23" src="https://github.com/user-attachments/assets/87987607-e802-4df2-8d0e-66d752af9e79" />
+
+
 ## 🚀 Features
 
 * 🎥 Movie Listing & Movie Details
