@@ -3,7 +3,6 @@
 A modern **Movie Ticket Booking iOS application** built using **Swift and UIKit**.
 This project demonstrates a complete movie booking flow, including movie discovery, show selection, seat selection, and booking/payment UI.
 
-
 ## 🚀 Features
 
 * 🎥 Movie Listing & Movie Details
