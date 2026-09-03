@@ -104,7 +104,6 @@ iOS Developer | Swift | UIKit
 
 If you like this project, ⭐ **star the repository** and feel free to share your feedback!
 
-
 Anil Yadav ( iOS Developer )
 
 * LinkedIn: www.linkedin.com/in/anilyadavjnt
