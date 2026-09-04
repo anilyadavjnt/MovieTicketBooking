@@ -28,7 +28,6 @@ This project demonstrates a complete movie booking flow, including movie discove
 * **Backend Services:** Firebase
 * **IDE:** Xcode
 
-
 ## 📱 App Flow
 
 ```text
