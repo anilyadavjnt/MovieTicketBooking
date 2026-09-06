@@ -66,19 +66,19 @@ Working on this project helped me improve my skills in:
 ## 📸 Screenshots
 
 
-<img width="300" height="500" alt="Simulator Screenshot - iPhone 14 Pro - 2026-09-02 at 22 18 23" src="https://github.com/user-attachments/assets/87987607-e802-4df2-8d0e-66d752af9e79" />
+<img width="300" height="600" alt="Simulator Screenshot - iPhone 14 Pro - 2026-09-02 at 22 18 23" src="https://github.com/user-attachments/assets/87987607-e802-4df2-8d0e-66d752af9e79" />
 
 
-<img width="300" height="500" alt="Simulator Screenshot - iPhone 14 Pro - 2026-09-02 at 22 18 27" src="https://github.com/user-attachments/assets/fbfeba4e-a24b-4b76-9811-0e616de61d70" />
+<img width="300" height="600" alt="Simulator Screenshot - iPhone 14 Pro - 2026-09-02 at 22 18 27" src="https://github.com/user-attachments/assets/fbfeba4e-a24b-4b76-9811-0e616de61d70" />
 
 
-<img width="300" height="500" alt="Simulator Screenshot - iPhone 14 Pro - 2026-09-02 at 22 18 31" src="https://github.com/user-attachments/assets/9285a35c-022a-4232-86b5-a3aac909f650" />
+<img width="300" height="600" alt="Simulator Screenshot - iPhone 14 Pro - 2026-09-02 at 22 18 31" src="https://github.com/user-attachments/assets/9285a35c-022a-4232-86b5-a3aac909f650" />
 
 
-<img width="300" height="500" alt="Simulator Screenshot - iPhone 14 Pro - 2026-09-02 at 22 18 44" src="https://github.com/user-attachments/assets/19eb0a93-eb5d-4994-8bfb-53c9eb503923" />
+<img width="300" height="600" alt="Simulator Screenshot - iPhone 14 Pro - 2026-09-02 at 22 18 44" src="https://github.com/user-attachments/assets/19eb0a93-eb5d-4994-8bfb-53c9eb503923" />
 
 
-<img width="300" height="500" alt="Simulator Screenshot - iPhone 14 Pro - 2026-09-02 at 22 18 53" src="https://github.com/user-attachments/assets/c037b65c-f248-44fe-bc60-efbdcd2ebfac" />
+<img width="300" height="600" alt="Simulator Screenshot - iPhone 14 Pro - 2026-09-02 at 22 18 53" src="https://github.com/user-attachments/assets/c037b65c-f248-44fe-bc60-efbdcd2ebfac" />
 
 
 <img width="300" height="600" alt="Simulator Screenshot - iPhone 14 Pro - 2026-09-02 at 22 18 57" src="https://github.com/user-attachments/assets/1bdda7f0-79c7-47d7-b0a6-77e38629bb3e" />
