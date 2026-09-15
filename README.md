@@ -85,7 +85,6 @@ Working on this project helped me improve my skills in:
 
 <img width="300" height="600" alt="Simulator Screenshot - iPhone 14 Pro - 2026-09-02 at 22 19 53" src="https://github.com/user-attachments/assets/23c04c58-be6e-455e-a7d3-d93f4274644b" />
 
-
 ## 🔮 Future Improvements
 
 * Real payment gateway integration
