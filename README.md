@@ -81,7 +81,6 @@ Working on this project helped me improve my skills in:
 
 <img width="300" height="600" alt="Simulator Screenshot - iPhone 14 Pro - 2026-09-02 at 22 19 21" src="https://github.com/user-attachments/assets/8c3ec9fa-d628-4d48-ba63-8aeb1d9719b0" />
 
-
 <img width="300" height="600" alt="Simulator Screenshot - iPhone 14 Pro - 2026-09-02 at 22 19 47" src="https://github.com/user-attachments/assets/8d2d3e5a-d050-4b57-91c2-441b7a832b6e" />
 
 
